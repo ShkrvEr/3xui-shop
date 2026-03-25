@@ -14,13 +14,6 @@
     <a href="#installation-guide">Installation guide</a> •
 </p>
 
-![GitHub License](https://img.shields.io/github/license/ShkrvEr/3xui-shop)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ShkrvEr/3xui-shop/total)
-![GitHub Release](https://img.shields.io/github/v/release/ShkrvEr/3xui-shop)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ShkrvEr/3xui-shop)
-
-
-![GitHub Repo stars](https://img.shields.io/github/stars/ShkrvEr/3xui-shop)
 </div>
 
 <a id="overview"></a>
